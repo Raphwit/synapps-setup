@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "synapps-studio",
+    "synapps-studio/electron-app",
+    "synapps-runtime",
+    "packages/*"
+  ]
+}

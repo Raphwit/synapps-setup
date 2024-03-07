@@ -1,0 +1,23 @@
+{
+  "folders": [
+
+    {
+      "path": "synapps-studio"
+    },
+    {
+      "path": "synapps-studio/electron-app"
+    },
+    {
+      "path": "synapps-runtime"
+    },
+    {
+      "path": "packages"
+    },
+    {
+      "path": "docs"
+    }
+  ],
+  "settings": {
+
+  }
+}
